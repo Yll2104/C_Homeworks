@@ -20,15 +20,15 @@
     + Öffne einen Ornder in VsCode
     * Führe diese Commands aus:
        1. git init
-       1. git remote add origin https://github.com/UserName/C_Homeworks.git
-       1. git remote -v
+       2. git remote add origin https://github.com/UserName/C_Homeworks.git
+       3. git remote -v
             * Das solltet ihr sehen:
             + origin  https://github.com/UserName/C_Homeworks.git (fetch)
             + origin  https://github.com/UserName/C_Homeworks.git (push)
-        1. echo "" > test.c
-        1. git add .\test.c
-        1. git commit -m "Initial Commit"
-        1. git push -u origin main
+        4. echo "" > test.c
+        5. git add .\test.c
+        6. git commit -m "Initial Commit"
+        7. git push -u origin main
     
 * # Wichtige Commads:
         1. Datein auf GitHub adden
