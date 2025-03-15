@@ -30,10 +30,12 @@
         1. git commit -m "Initial Commit"
         1. git push -u origin main
     
-    + Wichtige Commads:
+* # Wichtige Commads:
         1. Datein auf GitHub adden
             * git add .\Name.c
         2. Kommentare zu Datein schreiben
             * git commit -m "Dein Kommentar"
         3. Pushen von Datein 
             * git push
+        4. Pullen von Datein
+            * git pull
