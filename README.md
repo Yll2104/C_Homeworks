@@ -39,3 +39,8 @@
             * git push
         4. Pullen von Datein
             * git pull
+
+* # Kommentare
+    + Die Kommentare sollten verstädnlich sein!
+    * Man sollte sie verstehen können ohne zu wissen was ihr jetzt gemacht habt
+    + Nicht zu lang, aber auch nicht zu kurz!
